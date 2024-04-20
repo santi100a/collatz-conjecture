@@ -22,7 +22,7 @@
 
 ## What's this?
 
-This is a library that generates the [Collatz sequence](https://en.m.wikipedia.org/Collatz_conjecture) for any positive integer.
+This is a library that generates the [Collatz sequence](https://en.m.wikipedia.org/wiki/Collatz_conjecture) for any positive integer.
 Let $ n_0 $ be the initial number, a non-zero positive integer. The conjecture claims that the sequence
 
 $$
